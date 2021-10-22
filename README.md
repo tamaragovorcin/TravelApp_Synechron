@@ -1,1 +1,1 @@
-# TravelApp_Synechron
+Travel app for Serbian finance team
